@@ -1,6 +1,7 @@
 # KNN-Decision-Tree-dan-Linear-Regression-dioptimasi-Genetic-Algorithm-untuk-memprediksi-harga-rumah.
 Membahas prediksi harga rumah menggunakan algoritma K-Nearest Neighbors, Decision Tree, dan Linear Regression yang dioptimasi dengan Genetic Algorithm. GA digunakan untuk menentukan parameter terbaik sehingga meningkatkan akurasi model. Evaluasi dilakukan untuk membandingkan kinerja tiap algoritmanya.
-## 🎯 Tujuan Penelitian
+
+## Tujuan 
 - Membangun model prediksi harga rumah menggunakan KNN, Decision Tree, dan Linear Regression  
 - Mengoptimalkan performa model dengan Genetic Algorithm  
 - Membandingkan kinerja model sebelum dan sesudah optimasi  
@@ -8,16 +9,14 @@ Membahas prediksi harga rumah menggunakan algoritma K-Nearest Neighbors, Decisio
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Jenis data: Data tabular harga rumah  
 - Target: Harga rumah  
 - Fitur: Atribut numerik yang merepresentasikan karakteristik rumah  
 
-> Dataset digunakan sesuai dengan yang terdapat pada notebook dan tidak disertakan secara terpisah.
-
 ---
 
-## ⚙️ Metodologi
+## Metodologi
 1. Exploratory Data Analysis (EDA)  
 2. Data Preprocessing  
 3. Implementasi KNN, Decision Tree, dan Linear Regression  
@@ -27,7 +26,7 @@ Membahas prediksi harga rumah menggunakan algoritma K-Nearest Neighbors, Decisio
 
 ---
 
-## 📈 Model & Evaluasi
+## Model & Evaluasi
 **Model yang digunakan:**
 - K-Nearest Neighbors (KNN)
 - Decision Tree
@@ -41,17 +40,10 @@ Membahas prediksi harga rumah menggunakan algoritma K-Nearest Neighbors, Decisio
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R² Score
-
+  
 ---
 
-## 📘 Laporan Lengkap
-Seluruh proses eksperimen dan evaluasi dapat dilihat pada notebook berikut:
-
-📓 `TUBES_KA_LAPORAN_LENGKAP.ipynb`
-
----
-
-## 🛠️ Tools & Library
+## Tools & Library
 - Python  
 - NumPy  
 - Pandas  
