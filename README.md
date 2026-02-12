@@ -1,0 +1,2 @@
+# KNN-Decision-Tree-dan-Linear-Regression-dioptimasi-Genetic-Algorithm-untuk-memprediksi-harga-rumah.
+Membahas prediksi harga rumah menggunakan algoritma K-Nearest Neighbors, Decision Tree, dan Linear Regression yang dioptimasi dengan Genetic Algorithm. GA digunakan untuk menentukan parameter terbaik sehingga meningkatkan akurasi model. Evaluasi dilakukan untuk membandingkan kinerja tiap algoritmanya.
